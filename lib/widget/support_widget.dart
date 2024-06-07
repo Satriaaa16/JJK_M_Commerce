@@ -10,15 +10,15 @@ class AppWidget {
 
   static TextStyle lightTextFeildStyle() {
     return TextStyle(
-        color: Color.fromARGB(135, 11, 81, 211),
+        color: Color.fromARGB(134, 118, 165, 226),
         fontSize: 20.0,
         fontWeight: FontWeight.bold);
   }
 
   static TextStyle semiboldTextFeildStye() {
     return TextStyle(
-        color: Color.fromARGB(255, 224, 8, 8),
-        fontSize: 10.0,
+        color: Color.fromARGB(255, 204, 71, 71),
+        fontSize: 20.0,
         fontWeight: FontWeight.bold);
   }
 }
